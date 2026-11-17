@@ -1,0 +1,8 @@
+path: C:/Users/Nithin Krishna S S/OneDrive/Desktop/safety-Helmet-Reflective-Jacket
+train: train/images
+val: valid/images
+test: test/images
+nc: 2
+names:
+  0: Safety-Helmet
+  1: Safety-Jacket
